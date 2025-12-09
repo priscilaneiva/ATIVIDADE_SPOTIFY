@@ -1,0 +1,35 @@
+#divCabecalho {
+
+    text-align: left;
+    background-color: black;
+}
+.img{
+
+    text-align: left;
+
+}
+.content{  
+
+    text-align: right;
+
+}
+
+#imgLogoSpotify{
+text-align:right
+
+
+}
+#divButtonSeta{
+text-align: left;
+}
+
+#divButtonEntrar{
+    text-align: right; 
+ }
+ 
+#divButtonInscrevase{
+    text-align: right ;
+}
+body{
+    background-color: rgb(46, 41, 41);
+}
